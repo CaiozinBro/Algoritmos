@@ -1,0 +1,7 @@
+C:\Projetos\Algoritmos\04_Vetores\bin\Debug\04_Vetores.exe.config
+C:\Projetos\Algoritmos\04_Vetores\bin\Debug\04_Vetores.exe
+C:\Projetos\Algoritmos\04_Vetores\bin\Debug\04_Vetores.pdb
+C:\Projetos\Algoritmos\04_Vetores\obj\Debug\04_Vetores.csproj.AssemblyReference.cache
+C:\Projetos\Algoritmos\04_Vetores\obj\Debug\04_Vetores.csproj.CoreCompileInputs.cache
+C:\Projetos\Algoritmos\04_Vetores\obj\Debug\04_Vetores.exe
+C:\Projetos\Algoritmos\04_Vetores\obj\Debug\04_Vetores.pdb
